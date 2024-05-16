@@ -18,3 +18,7 @@ Description: In this kata, your job is to create a class Dictionary which you ca
 4: Sum of Digits
 URL: https://www.codewars.com/kata/541c8630095125aba6000c00
 Description: Given n, take the sum of the digits of n. If that value has more than one digit, continue reducing in this way until a single-digit number is produced. The input will be a non-negative integer.
+
+5:Descending Order
+URL: https://www.codewars.com/kata/5467e4d82edf8bbf40000155/solutions/python
+Description: Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.

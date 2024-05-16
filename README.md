@@ -22,3 +22,7 @@ Description: Given n, take the sum of the digits of n. If that value has more th
 5:Descending Order
 URL: https://www.codewars.com/kata/5467e4d82edf8bbf40000155/solutions/python
 Description: Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
+
+6: Find the odd int
+URL: https://www.codewars.com/kata/54da5a58ea159efa38000836/solutions/python
+Description: Given an array of integers, find the one that appears an odd number of times. There will always be only one integer that appears an odd number of times.

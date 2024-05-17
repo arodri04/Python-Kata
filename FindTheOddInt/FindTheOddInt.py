@@ -3,6 +3,7 @@ def find_it(seq):
     for i in seq:
         if i not in store:
             store[i] = int(seq.count(i))
+            print(store)
     for i in store:
         if store[i] % 2 != 0:
             return i

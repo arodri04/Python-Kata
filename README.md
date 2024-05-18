@@ -51,3 +51,9 @@ NOTE: Extra spaces before or after the code have no meaning and should be ignore
 In addition to letters, digits and some punctuation, there are some special service codes, the most notorious of those is the international distress signal SOS (that was first issued by Titanic), that is coded as ···−−−···. These special codes are treated as single special characters, and usually are transmitted as separate words.
 
 Your task is to implement a function that would take the morse code as input and return a decoded human-readable string.
+
+8: High and Low
+
+URL: https://www.codewars.com/kata/554b4ac871d6813a03000035
+
+Description: In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.

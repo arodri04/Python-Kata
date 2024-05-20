@@ -57,3 +57,15 @@ Your task is to implement a function that would take the morse code as input and
 URL: https://www.codewars.com/kata/554b4ac871d6813a03000035
 
 Description: In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
+
+9: Calculating with functions
+
+URL: https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/solutions/python
+
+Description:
+
+There must be a function for each number from 0 ("zero") to 9 ("nine")
+There must be a function for each of the following mathematical operations: plus, minus, times, divided_by
+Each calculation consist of exactly one operation and two numbers
+The most outer function represents the left operand, the most inner function represents the right operand
+Division should be integer division. For example, this should return 2, not 2.666666...:

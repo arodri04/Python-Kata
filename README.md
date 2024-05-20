@@ -69,3 +69,15 @@ There must be a function for each of the following mathematical operations: plus
 Each calculation consist of exactly one operation and two numbers
 The most outer function represents the left operand, the most inner function represents the right operand
 Division should be integer division. For example, this should return 2, not 2.666666...:
+
+10: Even or Odd
+
+URL: https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/solutions/python
+
+Description: Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
+
+11: Domain Name
+
+URL: https://www.codewars.com/kata/514a024011ea4fb54200004b/python
+
+Description: Write a function that when given a URL as a string, parses out just the domain name and returns it as a string. 

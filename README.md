@@ -81,3 +81,9 @@ Description: Create a function that takes an integer as an argument and returns 
 URL: https://www.codewars.com/kata/514a024011ea4fb54200004b/python
 
 Description: Write a function that when given a URL as a string, parses out just the domain name and returns it as a string. 
+
+12: Who likes it
+
+URL: https://www.codewars.com/kata/5266876b8f4bf2da9b000362
+
+Description: You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item.

@@ -124,3 +124,42 @@ He also mentioned, he knows this kind of locks. You can enter an unlimited amoun
 Can you help us to find all those variations? It would be nice to have a function, that returns an array (or a list in Java/Kotlin and C#) of all variations for an observed PIN with a length of 1 to 8 digits. We could name the function getPINs (get_pins in python, GetPINs in C#). But please note that all PINs, the observed one and also the results, must be strings, because of potentially leading '0's. We already prepared some test cases for you.
 
 Detective, we are counting on you!
+
+15: How Good Are You Really
+
+URL: https://www.codewars.com/kata/5601409514fc93442500010b/python
+
+Description:
+
+There was a test in your class and you passed it. Congratulations!
+
+But you're an ambitious person. You want to know if you're better than the average student in your class.
+
+You receive an array with your peers' test scores. Now calculate the average and compare your score!
+
+Return true if you're better, else false!
+
+16: Plays Banjo
+
+URL: https://www.codewars.com/kata/53af2b8861023f1d88000832/python
+
+Description:
+Create a function which answers the question "Are you playing banjo?".
+If your name starts with the letter "R" or lower case "r", you are playing banjo!
+
+17: IP to int 32
+
+URL: https://www.codewars.com/kata/52ea928a1ef5cfec800003ee/python
+
+Description: 
+Take the following IPv4 address: 128.32.10.1. This address has 4 octets where each octet is a single byte (or 8 bits).
+
+1st octet 128 has the binary representation: 10000000
+2nd octet 32 has the binary representation: 00100000
+3rd octet 10 has the binary representation: 00001010
+4th octet 1 has the binary representation: 00000001
+So 128.32.10.1 == 10000000.00100000.00001010.00000001
+
+Because the above IP address has 32 bits, we can represent it as the 32 bit number: 2149583361.
+
+Write a function ip_to_int32(ip) ( JS: ipToInt32(ip) ) that takes an IPv4 address and returns a 32 bit number.

@@ -15,6 +15,7 @@ def get_pins(observed):
 
     final = list(itertools.product(*test))
     final2 = map(join_tuple_string, final)
+    print(list(final2))
     return list(final2)
 get_pins("369")
 

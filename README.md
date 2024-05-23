@@ -179,3 +179,13 @@ URL: https://www.codewars.com/kata/545cedaa9943f7fe7b000048
 Description: A pangram is a sentence that contains every single letter of the alphabet at least once. For example, the sentence "The quick brown fox jumps over the lazy dog" is a pangram, because it uses the letters A-Z at least once (case is irrelevant).
 
 Given a string, detect whether or not it is a pangram. Return True if it is, False if not. Ignore numbers and punctuation.
+
+20: Help Suzuki count his vegetables
+
+URL: https://www.codewars.com/kata/56ff1667cc08cacf4b00171b/python
+
+Description: Help Suzuki count his vegetables....
+
+Suzuki is the master monk of his monastery so it is up to him to ensure the kitchen is operating at full capacity to feed his students and the villagers that come for lunch on a daily basis.
+
+This week there was a problem with his deliveries and all the vegetables became mixed up. There are two important aspects of cooking in his kitchen, it must be done in harmony and nothing can be wasted. Since the monks are a record keeping people the first order of business is to sort the mixed up vegetables and then count them to ensure there is enough to feed all the students and villagers.

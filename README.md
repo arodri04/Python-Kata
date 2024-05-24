@@ -189,3 +189,23 @@ Description: Help Suzuki count his vegetables....
 Suzuki is the master monk of his monastery so it is up to him to ensure the kitchen is operating at full capacity to feed his students and the villagers that come for lunch on a daily basis.
 
 This week there was a problem with his deliveries and all the vegetables became mixed up. There are two important aspects of cooking in his kitchen, it must be done in harmony and nothing can be wasted. Since the monks are a record keeping people the first order of business is to sort the mixed up vegetables and then count them to ensure there is enough to feed all the students and villagers.
+
+21: Smart Traffic Light
+
+URL: https://www.codewars.com/kata/58587905ed1b4dad6e0000c6/python
+
+Description: Story
+Your friend Bob is working as a taxi driver. After working for a month he is frustrated in the city's traffic lights. He asks you to write a program for a new type of traffic light. It is made so it turns green for the road with the most congestion.
+
+Task
+Given 2 pairs of values each representing a road (the number of cars on it and its name), construct an object whose turngreen method returns the name of the road with the most traffic at the moment of the method call, and clears that road from cars.
+
+After both roads are clear of traffic, or if the number of cars on both roads is the same from the beginning, return an empty value instead.
+
+22: So Many Permutations
+
+URL: https://www.codewars.com/kata/5254ca2719453dcc0b00027d/python
+
+Description: In this kata, your task is to create all permutations of a non-empty input string and remove duplicates, if present.
+
+Create as many "shufflings" as you can!

@@ -201,3 +201,11 @@ Task
 Given 2 pairs of values each representing a road (the number of cars on it and its name), construct an object whose turngreen method returns the name of the road with the most traffic at the moment of the method call, and clears that road from cars.
 
 After both roads are clear of traffic, or if the number of cars on both roads is the same from the beginning, return an empty value instead.
+
+22: So Many Permutations
+
+URL: https://www.codewars.com/kata/5254ca2719453dcc0b00027d/python
+
+Description: In this kata, your task is to create all permutations of a non-empty input string and remove duplicates, if present.
+
+Create as many "shufflings" as you can!
